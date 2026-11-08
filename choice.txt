@@ -1,0 +1,12 @@
+#C: Partition2;
+#D: Partition0;
+#E: Partition1;
+#F: Partition6;
+#G: Partition7;
+#X: Partition3;
+#Y: Partition4;
+#Z: Partition5;
+# put a single * on a line to enable debug. note: launch from dashboard to see it
+
+&\Device\Harddisk0\Partition1\games\starcraft_ghost_beta\Ghost.xbe
+!0
